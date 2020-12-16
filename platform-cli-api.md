@@ -21,7 +21,7 @@ subcollection: overview
 # {{site.data.keyword.Bluemix_notm}} service support in console, API, SDK, and CLI
 {: #platform-svc-cli-api}
 
-{{site.data.keyword.cloud}} is composed of multiple services that work together to provide you with a consistent cloud experience.
+{{site.data.keyword.cloud}} is composed of multiple services that are available in a variety of interfaces for a consistent cloud experience.
 {: shortdesc}
 
 Services available in the {{site.data.keyword.cloud_notm}} console are also available through APIs, SDKs, and CLIs. New {{site.data.keyword.cloud_notm}} services will be available via the {{site.data.keyword.cloud_notm}} console, APIs, SDKs, and CLIs at GA release.
